@@ -14,12 +14,17 @@
 </p>
 
 <p align="center">
+  <a href="https://solstack.xyz/about#solana-mobile"><img src="images/dapp-store-badge.svg" width="150" alt="Get it on Solana dApp Store"></a>
+</p>
+
+<p align="center">
   <a href="https://solstack.xyz"><img src="images/home.png" width="760" alt="The Solstack home page"></a>
 </p>
 
 Solstack is a browser toolkit for Solana tokens: create an SPL or Token-2022 token, launch on pump.fun, letsbonk.fun, Meteora or StonkFun, send to thousands of wallets, airdrop to every holder of another token, clean up wallets, and check any token's rug risk before you buy.
 
 - **No account, no install.** Open a tool, connect Phantom, Solflare, Ledger or any Solana wallet, and approve in your wallet. Your keys stay in your wallet.
+- **On Solana Mobile too.** On a Seeker or Saga phone, the same tools are the Solstack app in the Solana dApp Store, signing with Seed Vault or any wallet on the phone.
 - **Try it on devnet.** Most tools also run on devnet, so you can rehearse with free SOL from the built-in [devnet faucet](https://solstack.xyz/tools/solana-devnet-faucet).
 - **Read-only tools are free** and work without a wallet: [Token Inspector](https://solstack.xyz/tools/solana-token-inspector), [Transaction Inspector](https://solstack.xyz/tools/solana-transaction-inspector), [Account Inspector](https://solstack.xyz/tools/solana-account-inspector), [Network Status](https://solstack.xyz/tools/solana-network-status).
 
