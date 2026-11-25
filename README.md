@@ -105,7 +105,7 @@ tools: 34
 |---|---|---|
 | [Sign & Verify](https://solstack.xyz/tools/sign-verify-solana-message) | Sign a message to prove wallet ownership, or verify a signature. | [Docs](https://solstack.xyz/docs/sign-verify-solana-message) |
 | [Vanity Address](https://solstack.xyz/tools/solana-vanity-address-generator) | A keypair whose address starts or ends with your text, ground in your browser. | [Docs](https://solstack.xyz/docs/solana-vanity-address-generator) |
-| [Devnet Faucet](https://solstack.xyz/tools/solana-devnet-faucet) | Test SOL on devnet or testnet. | [Docs](https://solstack.xyz/docs/solana-devnet-faucet) |
+| [Devnet Faucet](https://solstack.xyz/tools/solana-devnet-faucet) | Free test SOL on devnet. | [Docs](https://solstack.xyz/docs/solana-devnet-faucet) |
 
 ## Screenshots
 
